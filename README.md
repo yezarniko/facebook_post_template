@@ -12,7 +12,3 @@
    `git clone https://github.com/yezarniko/facebook_post_template.git`
 
 4. Open code in Vscode
-
-## Preview
-
-![preview](./Screenshot_2023-05-15_11-42-10.png)
